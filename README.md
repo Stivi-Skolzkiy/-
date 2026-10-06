@@ -1,5 +1,6 @@
 # -Software Requirements Specification (SRS): Recycling Assistant Bot
 1. Introduction
+ 
  1.1 Назначение
 
 Настоящий документ определяет спецификацию требований к программному обеспечению Recycling Assistant Bot — Telegram-боту для поиска ближайших пунктов приёма вторичного сырья и получения информации о правильной утилизации различных видов отходов.
